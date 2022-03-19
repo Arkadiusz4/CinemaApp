@@ -26,7 +26,7 @@ Cinema Ticket Booking App using TMDB API. App made in Flutter and Dart. Designed
 * [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
 * [Cached Network Image](https://pub.dev/packages/cached_network_image)
 * [Google Fonts](https://pub.dev/packages/google_fonts)
-* [Flutter Localizations]
+* Flutter Localizations
 * [Wiredash](https://pub.dev/packages/wiredash)
 
 ## Created by:
