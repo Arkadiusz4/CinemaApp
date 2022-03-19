@@ -1,16 +1,38 @@
-# cinema
+# Cinema Ticket Booking App
 
-A new Flutter project.
+Cinema Ticket Booking App using TMDB API. App made in Flutter and Dart. Designed in [Figma]().
 
-## Getting Started
+## Table of Contents
+1. [Cinema Ticket Booking App UI](#cinema-app-ui)
+2. [Description](#description)
+3. [Screenshots](#screenshots)
+4. [Plugins and Techonologies](#plugins)
 
-This project is a starting point for a Flutter application.
+<a name="cinema-app-ui"></a>
+## Cinema Ticket Booking App UI
 
-A few resources to get you started if this is your first Flutter project:
+<a name="description"></a>
+## Description
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a name="screenshots"></a>
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a name="plugins"></a>
+## Plugins and Techonologies
+* [Equatable](https://pub.dev/packages/equatable)
+* [Http](https://pub.dev/packages/http)
+* [Dartz](https://pub.dev/packages/dartz)
+* [Get It](https://pub.dev/packages/get_it)
+* [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
+* [Cached Network Image](https://pub.dev/packages/cached_network_image)
+* [Google Fonts](https://pub.dev/packages/google_fonts)
+* [Flutter Localizations]
+* [Wiredash](https://pub.dev/packages/wiredash)
+
+## Created by:
+* Design: 
+  * [Arkadiusz Mika](https://github.com/Arkadiusz4)
+  * Maciej Surga
+
+* Programming:
+  *  [Arkadiusz Mika](https://github.com/Arkadiusz4)
