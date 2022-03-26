@@ -1,6 +1,6 @@
 # Cinema Ticket Booking App
 
-Cinema Ticket Booking App using TMDB API. App made in Flutter and Dart. Designed in [Figma]().
+Cinema Ticket Booking App using TMDB API. App made in Flutter and Dart. Designed in [Figma](https://www.figma.com/file/cgrKyDSdZt3JHdIw2EHbus/Cinema-booking?node-id=0%3A1).
 
 ## Table of Contents
 1. [Cinema Ticket Booking App UI](#cinema-app-ui)
