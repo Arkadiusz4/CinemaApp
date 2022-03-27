@@ -6,7 +6,8 @@ Cinema Ticket Booking App using TMDB API. App made in Flutter and Dart. Designed
 1. [Cinema Ticket Booking App UI](#cinema-app-ui)
 2. [Description](#description)
 3. [Screenshots](#screenshots)
-4. [Plugins and Techonologies](#plugins)
+4. [Features](#features)
+5. [Plugins and Techonologies](#plugins)
 
 <a name="cinema-app-ui"></a>
 ## Cinema Ticket Booking App UI
@@ -16,6 +17,22 @@ Cinema Ticket Booking App using TMDB API. App made in Flutter and Dart. Designed
 
 <a name="screenshots"></a>
 ## Screenshots
+
+<a name="features"></a>
+## Features
+- [x] Home Screen with currentyly popular movies.
+- [x] Navigation/Menu Bar.
+- [x] Multi-language feature.
+- [x] Movie Detail Screen with description, accuracy, length and cast.
+- [x] bugs
+- [x] Information about app. 
+- [ ] Screen to choose date and time of spectal.
+- [ ] Screen to choose seat in the cinema.
+- [ ] Summing up Screen with all informations like: movie, seat, hour etc.
+- [ ] Connecting app with Firebase.
+- [ ] Registration and Login Screen.
+- [ ] Screen with booking earlier tickets. 
+- [ ] Profile Screen.
 
 <a name="plugins"></a>
 ## Plugins and Techonologies
