@@ -14,6 +14,13 @@ Cinema Ticket Booking App using TMDB API. App made in Flutter and Dart. Designed
 
 <a name="description"></a>
 ## Description
+* In Home Screen you can see list of films which are currently popular. 
+* In Detail Screen you can see informations about film or series. There is duration, publication date and country that created it. Furthermore, you can see a short plot story about movie. Additionally, there are actors who played in the film.
+* In Side Navbar you can see menu in which are: 
+  * your earlier tickets,
+  * function to provide changing language of the application, 
+  * feature which help send bugs and crushes to the databse,
+  * information about the application. 
 
 <a name="screenshots"></a>
 ## Screenshots
