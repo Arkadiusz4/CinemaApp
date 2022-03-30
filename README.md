@@ -25,6 +25,20 @@ Cinema Ticket Booking App using TMDB API. App made in Flutter and Dart. Designed
 <a name="screenshots"></a>
 ## Screenshots
 
+### Home Screen
+<img src="https://user-images.githubusercontent.com/71427558/160923175-de4e42af-3896-444f-8c56-c8e82dab1787.PNG" width="300">
+
+
+### Detail Screen
+<img src="https://user-images.githubusercontent.com/71427558/160923263-ac1def0e-22a2-4d7c-8e8d-b8bc56feed56.PNG" width="300"> <img src="https://user-images.githubusercontent.com/71427558/160923626-df4901b6-1e9f-4588-8274-d8bbac78ff3b.PNG" width="300">
+
+### Menu Screen
+<img src="https://user-images.githubusercontent.com/71427558/160923666-03afe682-60d7-4197-80f1-932768cc1979.PNG" width="300"> <img src="https://user-images.githubusercontent.com/71427558/160923697-0dc1e4a4-51fe-44b1-8b13-7ecc0be859fd.PNG" width="300">
+
+### Wiredash Screen
+<img src="https://user-images.githubusercontent.com/71427558/160923910-97f3e24c-965b-499d-a17f-f70a1179b110.PNG" width="300">
+
+
 <a name="features"></a>
 ## Features
 - [x] Home Screen with currentyly popular movies.
