@@ -18,7 +18,7 @@ class WiredashApp extends StatelessWidget {
     return Wiredash(
       navigatorKey: navigatorKey,
       projectId: 'cinema-app-t4mmk1h',
-      secret: 'TkPdVbtMxbpTYVA-VPxuzQgwlUOPkkI1',
+      secret: 'YOUR API KEY',
       child: child,
       options: WiredashOptionsData(
         showDebugFloatingEntryPoint: false,
