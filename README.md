@@ -45,7 +45,7 @@ Cinema Ticket Booking App using TMDB API. App made in Flutter and Dart. Designed
 - [x] Navigation/Menu Bar.
 - [x] Multi-language feature.
 - [x] Movie Detail Screen with description, accuracy, length and cast.
-- [x] bugs
+- [x] Sending reports of bugs and crushes.
 - [x] Information about app. 
 - [ ] No Internet Connection alert.
 - [ ] Screen to choose date and time of spectacl.
