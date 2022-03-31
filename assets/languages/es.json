@@ -1,0 +1,10 @@
+{
+    "favoriteMovies": "Peliculas favoritas",
+    "language": "Idioma",
+    "feedback": "Realimentación",
+    "about": "Sobre la aplicación",
+    "bookNow": "Reservar ahora",
+    "okay": "Vale",
+    "aboutDescription": "Este producto utiliza la API de TMDB pero no está avalado ni certificado por TMDB. Esta aplicación se ha desarrollado con fines educativos."
+
+}

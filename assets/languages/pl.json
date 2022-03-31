@@ -1,0 +1,13 @@
+{
+    "favoriteMovies": "Ulubione Filmy",
+    "language": "Język",
+    "feedback": "Opinie",
+    "about": "O aplikacji",
+    "bookNow": "Zarezerwuj teraz",
+    "okay": "Ok",
+    "retry": "Ponów",
+    "aboutDescription": "Ten produkt wykorzystuje TMDB Api, ale nie jest zatwierdzony ani certyfikowany przez TMDB. Ta aplikacja jest stworzona do celów edukacyjnych.",
+    "checkNetwork": "Sprawdź sieć",
+    "somethingWrong": "Coś poszło nie tak"
+
+}

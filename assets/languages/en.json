@@ -1,0 +1,13 @@
+{
+    "favoriteMovies": "Favorite Movies",
+    "language": "Language",
+    "feedback": "Feedback",
+    "about": "About app",
+    "bookNow": "Book Now",
+    "okay": "Okay",
+    "retry": "Retry",
+    "aboutDescription": "This product uses the TMDB Api but is not endorced or certified by TMDB. This app is developed for educational purpose.",
+    "checkNetwork": "Please check your network connection and press Retry or put in as a bug by pressing Feedback.",
+    "somethingWrong": "Something wrong"
+
+}
